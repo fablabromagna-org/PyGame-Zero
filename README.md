@@ -9,9 +9,4 @@ A questo link troviamo [una versione di Pong moderna](https://github.com/Wirefra
 
 A questo link troviamo [una versione minima di Arkanoid](https://new.pythonforengineers.com/blog/your-first-game-in-python-in-less-than-30-minutes/)
 
-``` 
-void main( int argc, int** argv ) 
-{
-    printf("Hello Fablab")!
-}
-```
+[Qui abbiamo un tutorial interessante](https://quirkycort.github.io/tutorials/index.html)
