@@ -89,7 +89,7 @@ def update():
     update_ball()
     
     # se la pallina collide con un mattone
-    # la togliamo dalla lista e cambiamo direzione verticale (y)
+    # lo togliamo dalla lista e cambiamo direzione verticale (y)
     for bar in bars_list:
         if ball.colliderect(bar):
             bars_list.remove(bar)
@@ -98,7 +98,7 @@ def update():
     # se la pallina collide con il paddle
     if paddle.colliderect(ball):
 
-        # cambiamo di sicupo la direzione verticale (y)
+        # cambiamo di sicuro la direzione verticale (y)
         ball_y_speed *= -1
 
         # ... ma a caso cambiamo anche la direzione orizzontale (x)
@@ -109,7 +109,7 @@ def update():
 def update_ball():
     global ball_x_speed, ball_y_speed
 
-    # muove la pallina in entrambe x e y
+    # muove la pallina in entrambe le direzioni x e y
     ball.x -= ball_x_speed
     ball.y -= ball_y_speed
     
