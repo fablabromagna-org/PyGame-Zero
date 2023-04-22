@@ -9,6 +9,6 @@ A questo link troviamo [una versione di Pong moderna](https://github.com/Wirefra
 
 A questo link troviamo [una versione minima di Arkanoid](https://new.pythonforengineers.com/blog/your-first-game-in-python-in-less-than-30-minutes/)
 
-[Qui abbiamo un tutorial interessante](https://quirkycort.github.io/tutorials/index.html)
+Qui abbiamo un [tutorial interessante](https://quirkycort.github.io/tutorials/index.html)
 
 Il manuale di PyGame-Zero invece [lo trovi qui](https://buildmedia.readthedocs.org/media/pdf/pygame-zero/latest/pygame-zero.pdf)
